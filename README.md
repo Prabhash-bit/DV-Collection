@@ -5,6 +5,7 @@ Damn Vulnerable Applications Collection
 P/s: Credit to all the creator of this awesome project. I'am not the creator for all this project. I just put it here to make it easy for everyone to refer.
 
 > Web Applications
+> 
 DVWA : https://github.com/ethicalhack3r/DVWA (or https://www.vulnhub.com/entry/damn-vulnerable-web-application-dvwa-107,43/)
 > 
 XVWA : https://www.vulnhub.com/entry/xtreme-vulnerable-web-application-xvwa-1,209/
@@ -29,6 +30,7 @@ Damn Vulnerable NodeJS Application : https://www.kitploit.com/2022/01/ninjaswork
 
 
 Source Code
+
 DVSC : https://github.com/h4x0r101/Damn-Vulnerable-Source-Code
 
 DVTA : https://github.com/srini0x00/dvta
@@ -36,6 +38,7 @@ DVTA : https://github.com/srini0x00/dvta
 DVJA : https://github.com/appsecco/dvja
 
 Mobile Application
+
 DVIA-v2 : https://github.com/prateek147/DVIA-v2
 
 DVIA : https://github.com/prateek147/DVIA
@@ -47,6 +50,7 @@ DVHMA : https://github.com/logicalhacking/DVHMA
 
 
 Cloud Infrastructure
+
 DVCA : https://github.com/m6a-UdS/dvca
 
 DVFaaS : https://github.com/we45/DVFaaS-Damn-Vulnerable-Functions-as-a-Service
@@ -56,6 +60,7 @@ DVSA : https://github.com/OWASP/DVSA
 
 
 OS Related (Linux, Windows)
+
 DVL : https://www.vulnhub.com/series/damn-vulnerable-linux-dvl,1/
 
 DVW : https://sourceforge.net/projects/dawn-vulnerability-windows/
@@ -65,6 +70,7 @@ DVDD : https://github.com/pwk4m1/Damn_Vulnerable_Device_Driver
 
 
 Crypto & Block Chain
+
 DVCW : https://gitlab.com/badbounty/dvcw
 
 DVWA : https://github.com/genecyber/Damn-Vulnerable-Wallet-App
@@ -75,6 +81,7 @@ DVBA : https://github.com/subashsn/dvba
 
 
 IoT and Hardware
+
 DVID : https://github.com/Vulcainreo/DVID
 
 DVRE : https://github.com/praetorian-code/DVRF
