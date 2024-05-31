@@ -6,8 +6,11 @@ P/s: Credit to all the creator of this awesome project. I'am not the creator for
 
 > Web Applications
 DVWA : https://github.com/ethicalhack3r/DVWA (or https://www.vulnhub.com/entry/damn-vulnerable-web-application-dvwa-107,43/)
+> 
 XVWA : https://www.vulnhub.com/entry/xtreme-vulnerable-web-application-xvwa-1,209/
+
 DVWPS : https://github.com/vianasw/dvwps
+
 DVNA : https://github.com/appsecco/dvna
 DVWS : https://hub.docker.com/r/tssoffsec/dvws/
 DVPWA : https://github.com/anxolerd/dvpwa
