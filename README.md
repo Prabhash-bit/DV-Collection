@@ -29,7 +29,7 @@ DVCSHARP : https://github.com/appsecco/dvcsharp-api
 Damn Vulnerable NodeJS Application : https://www.kitploit.com/2022/01/ninjasworkout-vulnerable-nodejs-web.html
 
 
-Source Code
+> Source Code
 
 DVSC : https://github.com/h4x0r101/Damn-Vulnerable-Source-Code
 
@@ -37,7 +37,7 @@ DVTA : https://github.com/srini0x00/dvta
 
 DVJA : https://github.com/appsecco/dvja
 
-Mobile Application
+> Mobile Application
 
 DVIA-v2 : https://github.com/prateek147/DVIA-v2
 
@@ -49,7 +49,7 @@ DVHMA : https://github.com/logicalhacking/DVHMA
 
 
 
-Cloud Infrastructure
+> Cloud Infrastructure
 
 DVCA : https://github.com/m6a-UdS/dvca
 
@@ -59,7 +59,7 @@ DVSA : https://github.com/OWASP/DVSA
 
 
 
-OS Related (Linux, Windows)
+> OS Related (Linux, Windows)
 
 DVL : https://www.vulnhub.com/series/damn-vulnerable-linux-dvl,1/
 
@@ -69,7 +69,7 @@ DVDD : https://github.com/pwk4m1/Damn_Vulnerable_Device_Driver
 
 
 
-Crypto & Block Chain
+> Crypto & Block Chain
 
 DVCW : https://gitlab.com/badbounty/dvcw
 
@@ -80,7 +80,7 @@ DVBA : https://github.com/subashsn/dvba
 
 
 
-IoT and Hardware
+> IoT and Hardware
 
 DVID : https://github.com/Vulcainreo/DVID
 
